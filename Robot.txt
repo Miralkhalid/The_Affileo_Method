@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miralkhalid.github.io/The_Affileo_Method/sitemap.xml
